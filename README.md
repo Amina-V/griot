@@ -1,5 +1,4 @@
-Work in project - I have connected DeepGram's API to Claude to transcribe mp4 files. End goal is to:
+Update on this project - Sept 17, 2024:
 
-- Develop this further with greater storytelling capabilities
-- Deploy this to clean UI
-- Have this be accessible to anyone who wants to tell a story
+- Have the basic workflow with Claude's API, Deepgram and stable diffuion to take a recording and create a blog post with an interesting story narrative
+- Flask app is working with basic html
